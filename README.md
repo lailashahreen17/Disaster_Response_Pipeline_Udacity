@@ -56,7 +56,7 @@ Screenshot_4
 Screenshot_5
 
 ## Acknowledgement
-I am really grateful to be a part of this Udacity DataScince Nanodegree Program. This lesson of Data Engineering Skills provides a great bunch of opportuntiies to apply them in real life problem solving such as this disaster response pipeline. 
+I am really grateful to be a part of this Udacity DataScince Nanodegree Program. This lesson of Data Engineering Skills provides a great bunch of opportunities to apply them in real life problem solving such as this disaster response pipeline. 
 Thanks goes to Figure Eight for the dataset. This was explored to build a model for an API that classifies disaster messages.
 
 ## License
