@@ -44,7 +44,7 @@ The code contained in this repository was written in HTML and Python 3, and requ
 * Run the following command in the app directory: python run.py
 * Go to http://0.0.0.0:3001/
 
-##Screenshots
+## Screenshots
 Screenshot_1
 
 Screenshot_2
@@ -55,7 +55,7 @@ Screenshot_4
 
 Screenshot_5
 
-##Acknowledgement
+## Acknowledgement
 I am really grateful to be a part of this Udacity DataScince Nanodegree Program. This lesson of Data Engineering Skills provides a great bunch of opportuntiies to apply them in real life problem solving such as this disaster response pipeline. 
 Thanks goes to Figure Eight for the dataset. This was explored to build a model for an API that classifies disaster messages.
 
