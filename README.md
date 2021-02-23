@@ -57,6 +57,9 @@ http://WORKSPACESPACEID-3001.WORKSPACEDOMAIN replacing WORKSPACEID and WORKSPACE
 
 
 ## Screenshots
+
+The following screenshots are taken during running the ELT, ML pipeline and running webapp file.
+
 ### Screenshot_1 
 
 <img width="898" alt="Screenshot_1" src="https://user-images.githubusercontent.com/39970140/108806394-6d84f780-7556-11eb-8ef8-852336776d5e.png">
