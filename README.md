@@ -31,7 +31,7 @@ Plotly has been in a great use of building data visualizations in the web app.
 
 ### data
 This folder contains sample messages and categories datasets in csv format.
-### app: 
+### app 
 This folder contains all of the files necessary to run and render the web app.
 
 ## Software needed
