@@ -58,15 +58,24 @@ http://WORKSPACESPACEID-3001.WORKSPACEDOMAIN replacing WORKSPACEID and WORKSPACE
 
 ## Screenshots
 Screenshot_1
+
 https://github.com/lailashahreen17/Disaster_Response_Pipeline_Udacity/blob/main/Screenshot_1.png
+
 Screenshot_2
+
 https://github.com/lailashahreen17/Disaster_Response_Pipeline_Udacity/blob/main/Screenshot_2.png
+
 Screenshot_3
+
 https://github.com/lailashahreen17/Disaster_Response_Pipeline_Udacity/blob/main/precision_recall_Fscore_report.png
+
 Screenshot_4
+
 https://github.com/lailashahreen17/Disaster_Response_Pipeline_Udacity/blob/main/Screenshot_4.png
+
 Screenshot_5
 https://github.com/lailashahreen17/Disaster_Response_Pipeline_Udacity/blob/main/Screenshot_5.png
+
 ## Acknowledgement
 I am really grateful to be a part of this Udacity DataScince Nanodegree Program. This lesson of Data Engineering Skills provides a great bunch of opportunities to apply them in real life problem solving such as this disaster response pipeline. 
 Thanks goes to Figure Eight for the dataset. This was explored to build a model for an API that classifies disaster messages.
