@@ -6,7 +6,9 @@ A web app has also been included where an emergency worker can input a new messa
 The web app will also display visualizations of the data. 
 
 ## Project Components
+
 1. ETL Pipeline
+
 The Python script, process_data.py contains data cleaning pipeline that
 * Loads the messages and categories datasets
 * Merges the two datasets
@@ -14,6 +16,7 @@ The Python script, process_data.py contains data cleaning pipeline that
 * Stores it in a SQLite database
 
 2. ML Pipeline
+
 The Python script, train_classifier.py, contains a machine learning pipeline that:
 
 * Loads data from the SQLite database
@@ -24,6 +27,7 @@ The Python script, train_classifier.py, contains a machine learning pipeline tha
 * Exports the final model as a pickle file
 
 3. Flask Web App
+
 Flask, html, css and javascript knowledge have been utilized to create the web app.
 Plotly has been in a great use of building data visualizations in the web app. 
 
