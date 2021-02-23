@@ -58,8 +58,7 @@ http://WORKSPACESPACEID-3001.WORKSPACEDOMAIN replacing WORKSPACEID and WORKSPACE
 
 ## Screenshots
 Screenshot_1
-
-https://github.com/lailashahreen17/Disaster_Response_Pipeline_Udacity/blob/main/Screenshot_1.png
+<img width="898" alt="Screenshot_1" src="https://user-images.githubusercontent.com/39970140/108806394-6d84f780-7556-11eb-8ef8-852336776d5e.png">
 
 Screenshot_2
 
