@@ -29,6 +29,11 @@ The Python script, train_classifier.py, contains a machine learning pipeline tha
 Flask, html, css and javascript knowledge have been utilized to create the web app.
 Plotly has been in a great use of building data visualizations in the web app. 
 
+### data
+This folder contains sample messages and categories datasets in csv format.
+### app: 
+This folder contains all of the files necessary to run and render the web app.
+
 ## Software needed
 The code contained in this repository was written in HTML and Python 3, and requires the following Python packages: json, plotly, pandas, nltk, flask, sklearn, sqlalchemy, sys, numpy, re, pickle, warnings.
 
