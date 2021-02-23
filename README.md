@@ -80,11 +80,19 @@ http://WORKSPACESPACEID-3001.WORKSPACEDOMAIN replacing WORKSPACEID and WORKSPACE
 <img width="393" alt="Screenshot_5" src="https://user-images.githubusercontent.com/39970140/108806776-7f1acf00-7557-11eb-8659-46c5ca79acfe.png">
 
 
-
+## Analysis of results and model
+As we can see from the visualization that the dataset used for the analysis and model building is really imbalanced. There are categories those are very few in numbers(less positive) can lead to incorrect insight gathering and prediction.In such cases, even though the classifier accuracy is very high (since it tends to predict that the message does not fall into these categories), the classifier recall (i.e. the proportion of positive examples that were correctly labelled) tends to be very low. While using this project,one should take this into consideration that applying measures like synthetic data generation, model selection and parameters fine-tuning, etc can help in predicting better.
 
 ## Acknowledgement
 I am really grateful to be a part of this Udacity DataScince Nanodegree Program. This lesson of Data Engineering Skills provides a great bunch of opportunities to apply them in real life problem solving such as this disaster response pipeline. 
 Thanks goes to Figure Eight for the dataset. This was explored to build a model for an API that classifies disaster messages.
+
+## References
+Inspiration for building the pipeline and the model to create the webapp is supported by the following q/a and github project.
+1. https://knowledge.udacity.com/questions/306891
+2. https://knowledge.udacity.com/questions/140072
+3. https://knowledge.udacity.com/questions/327812
+4. https://github.com/gkhayes/disaster_response_app
 
 ## License
 License: MIT
