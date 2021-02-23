@@ -6,8 +6,7 @@ A web app has also been included where an emergency worker can input a new messa
 The web app will also display visualizations of the data. 
 
 ## Project Components
-
-1. ETL Pipeline
+### ETL Pipeline
 
 The Python script, process_data.py contains data cleaning pipeline that
 * Loads the messages and categories datasets
@@ -15,7 +14,7 @@ The Python script, process_data.py contains data cleaning pipeline that
 * Cleans the data
 * Stores it in a SQLite database
 
-2. ML Pipeline
+### ML Pipeline
 
 The Python script, train_classifier.py, contains a machine learning pipeline that:
 
@@ -26,8 +25,7 @@ The Python script, train_classifier.py, contains a machine learning pipeline tha
 * Outputs results on the test set
 * Exports the final model as a pickle file
 
-3. Flask Web App
-
+### Flask Web App
 Flask, html, css and javascript knowledge have been utilized to create the web app.
 Plotly has been in a great use of building data visualizations in the web app. 
 
@@ -46,19 +44,24 @@ The code contained in this repository was written in HTML and Python 3, and requ
 3. Run the web app
 * Save the app folder in the current working directory.
 * Run the following command in the app directory: python run.py
-* Go to http://0.0.0.0:3001/
+* Go to http://0.0.0.0:3001/ (If this one doesn't work, follow the below instructions)
+* In the terminal, use this command to get the link for vieweing the app:
+env | grep WORK
+The link wil be:
+http://WORKSPACESPACEID-3001.WORKSPACEDOMAIN replacing WORKSPACEID and WORKSPACEDOMAIN with your values.
+
 
 ## Screenshots
 Screenshot_1
-
+https://github.com/lailashahreen17/Disaster_Response_Pipeline_Udacity/blob/main/Screenshot_1.png
 Screenshot_2
-
+https://github.com/lailashahreen17/Disaster_Response_Pipeline_Udacity/blob/main/Screenshot_2.png
 Screenshot_3
-
+https://github.com/lailashahreen17/Disaster_Response_Pipeline_Udacity/blob/main/precision_recall_Fscore_report.png
 Screenshot_4
-
+https://github.com/lailashahreen17/Disaster_Response_Pipeline_Udacity/blob/main/Screenshot_4.png
 Screenshot_5
-
+https://github.com/lailashahreen17/Disaster_Response_Pipeline_Udacity/blob/main/Screenshot_5.png
 ## Acknowledgement
 I am really grateful to be a part of this Udacity DataScince Nanodegree Program. This lesson of Data Engineering Skills provides a great bunch of opportunities to apply them in real life problem solving such as this disaster response pipeline. 
 Thanks goes to Figure Eight for the dataset. This was explored to build a model for an API that classifies disaster messages.
