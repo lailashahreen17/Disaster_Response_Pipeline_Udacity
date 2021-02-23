@@ -57,23 +57,28 @@ http://WORKSPACESPACEID-3001.WORKSPACEDOMAIN replacing WORKSPACEID and WORKSPACE
 
 
 ## Screenshots
-Screenshot_1
+### Screenshot_1 
+
 <img width="898" alt="Screenshot_1" src="https://user-images.githubusercontent.com/39970140/108806394-6d84f780-7556-11eb-8ef8-852336776d5e.png">
 
-Screenshot_2
+### Screenshot_2
+
 <img width="891" alt="Screenshot_2" src="https://user-images.githubusercontent.com/39970140/108806540-d10f2500-7556-11eb-9af6-dadd85d2220b.png">
 
 
+### Screenshot_3
 
-Screenshot_3
-
-
-
-Screenshot_4
+<img width="595" alt="precision_recall_Fscore_report" src="https://user-images.githubusercontent.com/39970140/108806689-411dab00-7557-11eb-9fa5-5472005fbaca.png">
 
 
+### Screenshot_4
 
-Screenshot_5
+<img width="351" alt="Screenshot_4" src="https://user-images.githubusercontent.com/39970140/108806738-601c3d00-7557-11eb-9b32-b986c9097ffa.png">
+
+### Screenshot_5
+
+<img width="393" alt="Screenshot_5" src="https://user-images.githubusercontent.com/39970140/108806776-7f1acf00-7557-11eb-8659-46c5ca79acfe.png">
+
 
 
 
