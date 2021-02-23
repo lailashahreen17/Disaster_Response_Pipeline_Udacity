@@ -61,20 +61,21 @@ Screenshot_1
 <img width="898" alt="Screenshot_1" src="https://user-images.githubusercontent.com/39970140/108806394-6d84f780-7556-11eb-8ef8-852336776d5e.png">
 
 Screenshot_2
+<img width="891" alt="Screenshot_2" src="https://user-images.githubusercontent.com/39970140/108806540-d10f2500-7556-11eb-9af6-dadd85d2220b.png">
 
-https://github.com/lailashahreen17/Disaster_Response_Pipeline_Udacity/blob/main/Screenshot_2.png
+
 
 Screenshot_3
 
-https://github.com/lailashahreen17/Disaster_Response_Pipeline_Udacity/blob/main/precision_recall_Fscore_report.png
+
 
 Screenshot_4
 
-https://github.com/lailashahreen17/Disaster_Response_Pipeline_Udacity/blob/main/Screenshot_4.png
+
 
 Screenshot_5
 
-https://github.com/lailashahreen17/Disaster_Response_Pipeline_Udacity/blob/main/Screenshot_5.png
+
 
 ## Acknowledgement
 I am really grateful to be a part of this Udacity DataScince Nanodegree Program. This lesson of Data Engineering Skills provides a great bunch of opportunities to apply them in real life problem solving such as this disaster response pipeline. 
