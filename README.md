@@ -36,8 +36,7 @@ This folder contains all of the files necessary to run and render the web app.
 
 ## File Structure:
 This provides an overall view of the project structure For example:
-
-app
+  *app
 | - template
 | |- master.html # main page of web app
 | |- go.html # classification result page of web app
@@ -76,20 +75,20 @@ http://WORKSPACESPACEID-3001.WORKSPACEDOMAIN replacing WORKSPACEID and WORKSPACE
 ## File Structure
 This provides an overall view of the project structure.
 
-app
+**app
 | - template
 | |- master.html # main page of web app
 | |- go.html # classification result page of web app
 |- run.py # Flask file that runs app
-data
+**data
 |- disaster_categories.csv # data to process
 |- disaster_messages.csv # data to process
 |- process_data.py
 |- DisasterResponse.db # database to save clean data to
-models
+**models
 |- train_classifier.py
 |- classifier.pkl # saved model
-README.md
+**README.md
 
 
 ## Screenshots
