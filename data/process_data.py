@@ -28,6 +28,15 @@ def load_data(messages_filepath, categories_filepath):
 
 
 def clean_data(df):
+    """Clean dataframe by removing duplicates & converting categories from strings 
+    to binary values.
+    
+    Args:
+    df: dataframe. Dataframe containing merged content of messages & categories datasets.
+       
+    Returns:
+    df: dataframe. Dataframe containing cleaned version of input dataframe.
+    """
     # create a dataframe of the 36 individual category columns
     categories = df['categories'].str.split(";", expand=True)
 
