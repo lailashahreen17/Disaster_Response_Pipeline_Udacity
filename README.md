@@ -34,6 +34,24 @@ This folder contains sample messages and categories datasets in csv format.
 ### app 
 This folder contains all of the files necessary to run and render the web app.
 
+## File Structure:
+This provides an overall view of the project structure For example:
+
+app
+| - template
+| |- master.html # main page of web app
+| |- go.html # classification result page of web app
+|- run.py # Flask file that runs app
+data
+|- disaster_categories.csv # data to process
+|- disaster_messages.csv # data to process
+|- process_data.py
+|- InsertDatabaseName.db # database to save clean data to
+models
+|- train_classifier.py
+|- classifier.pkl # saved model
+README.md
+
 ## Software needed
 The code contained in this repository was written in HTML and Python 3, and requires the following Python packages: json, plotly, pandas, nltk, flask, sklearn, sqlalchemy, sys, numpy, re, pickle, warnings.
 
