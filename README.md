@@ -55,23 +55,6 @@ env | grep WORK
 The link wil be:
 http://WORKSPACESPACEID-3001.WORKSPACEDOMAIN replacing WORKSPACEID and WORKSPACEDOMAIN with your values.
 
-## File Structure
-This provides an overall view of the project structure.
-
-**app
-| - template
-| |- master.html # main page of web app
-| |- go.html # classification result page of web app
-|- run.py # Flask file that runs app
-**data
-|- disaster_categories.csv # data to process
-|- disaster_messages.csv # data to process
-|- process_data.py
-|- DisasterResponse.db # database to save clean data to
-**models
-|- train_classifier.py
-|- classifier.pkl # saved model
-**README.md
 
 
 ## Screenshots
